@@ -18,10 +18,10 @@ I selecting "option 2" in dropdown Menu
     List Selection Should Be             //select[@id="dropdown"]           Option 2
     sleep       2s
 
-I selecting "option 1" in dropdown Menu
-    Maximize Browser Window
-    Element Should Be Visible            //select[@id="dropdown"]
-    Select From List By Index            //select[@id="dropdown"]           1
-    sleep       2s
-    List Selection Should Be             //select[@id="dropdown"]           Option 1
-    sleep       2s
+# I selecting "option 1" in dropdown Menu
+#     Maximize Browser Window
+#     Element Should Be Visible            //select[@id="dropdown"]
+#     Select From List By Index            //select[@id="dropdown"]           1
+#     sleep       2s
+#     List Selection Should Be             //select[@id="dropdown"]           Option 1
+#     sleep       2s
