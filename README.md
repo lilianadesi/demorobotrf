@@ -23,4 +23,4 @@
 1. Checkbox
 
 ### Explanation
-###### Automation Testing website menggunakan Robot Framework selenium library. Contoh penggunaan beberapa fungsi yang digunakan untuk Automation Testing. Aplikasi ini dijalankan menggunakan Visual Studio.
+Automation Testing website menggunakan Robot Framework selenium library. Contoh penggunaan beberapa fungsi yang digunakan untuk Automation Testing. Aplikasi ini dijalankan menggunakan Visual Studio.
